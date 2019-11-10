@@ -21,3 +21,5 @@ while True:
 
 	sense.show_message(mess, scroll_speed=0.05, back_colour=bg)
 
+	print(mess)
+
